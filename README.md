@@ -221,7 +221,14 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - Be passionate.
         - Don’t make assumptions.
         - Smile.
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+    - Slow Down
+    - Ask questions
+    - Code how you’d normally code
+    - Check your work
+    - Practice (When you think you’re done, take your code and see if it actually runs. Learn from what didn’t work.)
+    - Research : You’ll undoubtedly get asked about the company’s products and “why you want to work here”. It can be hard to come up with good answers on the spot, so research the company and figure out what you’d say ahead of time.
+    - Have fun
 - [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
